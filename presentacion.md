@@ -4,4 +4,6 @@ Mi nombre es Nicolas, estudiante de DAM.
 - Nadar
 - Videojuegos
 - Escuchar musica
-Pelicula favorite: The Super Mario Movie
+<<Pelicula favorita: The Super Mario Movie>>
+====================================
+<<Pelicula favorita: Toy Story>>
